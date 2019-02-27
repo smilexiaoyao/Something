@@ -3,3 +3,6 @@
 ################################################################################
 
 /DotNet.Revit.NET/bin
+/DotNet.Revit.NET/.vs/DotNet.Revit.NET/v14
+/DotNet.Revit.NET/obj
+/DotNet.Revit.NET/.vs/DotNet.Revit.NET/v15

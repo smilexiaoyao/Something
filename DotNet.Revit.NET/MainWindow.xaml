@@ -1,0 +1,6 @@
+﻿<Window x:Class="DotNet.Revit.NET.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HelloGitHub" Height="350" Width="601.275" WindowStartupLocation="CenterScreen" Visibility="Visible" WindowState="Normal">
+    <Grid/>
+</Window>
